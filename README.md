@@ -15,4 +15,9 @@
 ![Hosam ( testing )](https://user-images.githubusercontent.com/88390970/134217979-f132db71-3e9e-43f1-89f4-ca2d4636c529.jpg)
 ---------------------
 ![network](https://user-images.githubusercontent.com/88390970/137456804-ad7a62d9-d9f7-4ce9-8319-1cd5d0de3a43.jpg)
-
+---------------------
+![OSC (DS workshop) ](https://user-images.githubusercontent.com/88390970/177584570-5877f340-fccb-4fdc-b379-614664c8f72f.png)
+---------------------
+![UX Design Fundamental Course (Hosam)](https://user-images.githubusercontent.com/88390970/177584600-cb1bd0cf-088e-445e-8f8c-ef95b3ab5017.jpg)
+---------------------
+![Figma UX-UI Design](https://user-images.githubusercontent.com/88390970/177584633-13258c15-13b6-41d7-b8e5-2e1920f83c45.jpg)
